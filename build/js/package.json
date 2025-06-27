@@ -1,0 +1,16 @@
+{
+  "name": "musaib",
+  "version": "unspecified",
+  "private": true,
+  "workspaces": [
+    "packages/musaib",
+    "packages/musaib-test",
+    "packages_imported/html-core-js/1.7.3"
+  ],
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": [],
+  "resolutions": {}
+}

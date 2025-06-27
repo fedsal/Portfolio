@@ -1,0 +1,11 @@
+abi_version=1.201.0
+builtins_platform=JS
+compiler_version=2.1.20
+depends=org.jetbrains.compose.runtime\:runtime org.jetbrains.compose.html\:html-core com.varabyte.kobweb\:kobweb-silk com.varabyte.kobweb\:kobweb-core com.varabyte.kobwebx\:silk-icons-fa com.varabyte.kobwebx\:kobwebx-markdown org.jetbrains.compose.html\:internal-html-core-runtime com.varabyte.kobweb\:silk-widgets-kobweb com.varabyte.kobweb\:silk-widgets com.varabyte.kobweb\:silk-foundation com.varabyte.kobweb\:kobweb-compose com.varabyte.kobweb\:compose-html-ext com.varabyte.kobweb\:kobweb-worker-interface com.varabyte.kobweb\:framework-annotations com.varabyte.kobweb\:browser-ext org.jetbrains.kotlinx\:kotlinx-coroutines-core org.jetbrains.kotlinx\:atomicfu org.jetbrains.kotlin\:kotlin-dom-api-compat kotlin
+ir_signature_versions=1,2
+jsOutputName=musaib
+metadata_version=1.4.1
+serializedIrFileFingerprints=21aol2f6u4jrp.xjsvtdlfit5p 3beh990uj407o.3hgt3lcaninyu 8ly8cto5zkw5.1jfuredz3m20u 24wrc4zflklh5.mcz2iviyqqwa lqkrtx773war.myymlv0nyc0z 2ftby6ovo5shx.33t0szo1a9d0i kz96arvsrct1.192y02pdb52ay 15qceyg4xeag8.3cx95c90fvfl4 2iuqqsp2v4b9c.2thx1hj7p7dk3 1ceydcfb423mc.3jccbr6r70s5z 2vts6ztungjx1.3k8al12v0zrcc 4rtecc4yjfbf.2kb9pkbiwe1oc ldbxtuo95zom.1rdghs5l3hwd3 319yplqx2yos.2tuag2kkv5anb fyhh0w5tcb0t.31laz4l9bq4mf 3m57e9r4jdqs.1jykbxthb9tuq 2ew5rf2el3wxs.3swvv24h65adq mqidhz53zv8w.3uib5irw5g0mh 2myfuk8bdzvec.576esh345h74 3aa4pzfplzp15.ps2gs3qlg2wz 6xvxeu7npsbx.1w175insb3hzd 2xp291zd6vsaf.1dsj3v90o079m 1myzib3lynbnw.2t0qi3hrp8ipt 1wxwc4lpkvc3f.1g31sf3yu9dr1 3a596csertlmz.3rh8xyrc6a24q 1b77j1dwww82x.kn4hn3sf3w5 31671luf7276u.cst649kfzsvd 21ytswuv0ksf8.19x8tg5c9p6d5 29c3lf385sqrj.2spoxbjrtqsd2 2zq1x1n46xfge.w83pawcjg0u3 286ogr7tnbkdc.4doj5sorl69b 1px99f9pwius1.3ixlta4lwuh53 1cqbj4gwhaj7d.2ebks4t41dldq qd5mppdjky8o.29e7b6esyi1jf 13ax77ubbbibp.s1hppxj2shl5 1prazj2n7fk6c.3qus42p3z2dqu r5g52raw184c.1i6pnpuu5aix6 1ljwcs4j70egj.2bkx9p45ct8mo 1zalhokepzpk0.3n7ur3akwgxbc 1peslc0h89348.2u1d3b328xy6j 2zo4maximc465.vvsheblpvox6 uqpr753b94c0.1kbtezza4ccec 4txl3ergo8xj.mstwvk7kq1ib 2boeam8ow1udb.36tv4zo461fxv 3r2oap6y92qf4.1md1un94o52in 3bg4rtj6dlwme.3r14mf3loe3k6
+serializedKlibFingerprint=2xokwf51zvac6.1evefuovatrzx
+unique_name=musaib\:site
+wasm_targets=wasm-js
