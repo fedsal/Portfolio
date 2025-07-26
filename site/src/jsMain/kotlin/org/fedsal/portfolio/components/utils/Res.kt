@@ -18,6 +18,7 @@ object Res {
 
 
         // Projects Links
+        const val NEWS_APP_URL = "https://github.com/fedsal/News-app?tab=readme-ov-file"
         const val ON_FIT_URL = "https://github.com/fedsal/OnFit/tree/main"
         const val SIMPLE_FINANCE_URL = "https://github.com/fedsal/Simple-Finance"
         const val RETAIL_STORE_URL = "https://github.com/fedsal/retail-store-web"
@@ -91,6 +92,7 @@ object Res {
         const val NAVIGATION_ARROW = "images/Navigation_Arrow.svg"
 
         // Projects
+        const val PROJECT_NEWS_APP = "images/Projects/news_app.png"
         const val PROJECT_ON_FIT = "images/Projects/onfit.png"
         const val PROJECT_RETAIL_STORE = "images/Projects/retail_store.png"
         const val SIMPLE_FINANCE = "images/Projects/simple_finance.png"
