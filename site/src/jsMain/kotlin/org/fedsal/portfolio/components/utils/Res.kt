@@ -37,9 +37,9 @@ object Res {
                 "updated on emerging technologies to deliver cutting-edge, scalable solutions that meet user and business\n" +
                 "needs."
 
-        const val EXPERIENCE_SECTION_TEXT = "I’m a Software Developer Engineer, specializing in Android & Backend Development with "
-        const val FIVE_MONTH = "5 months"
-        const val OF_INTERNSHIP = " of Internship Experience."
+        const val EXPERIENCE_SECTION_TEXT = "I’m a Software Developer Engineer, specializing in Android, with "
+        const val FIVE_MONTH = "4 years"
+        const val OF_INTERNSHIP = " of Formal Experience."
 
         const val PROJECT_SECTION_TEXT = "Recent projects built with modern, innovative technologies."
         const val PROJECT_REPOSITORIES_URL = "https://github.com/fedsal?tab=repositories"

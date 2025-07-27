@@ -66,8 +66,8 @@ fun Experience() {
         }
 
         SimpleGrid(
-            numColumns = numColumns(base = 1, md = 3),
-            modifier = Modifier.margin(topBottom = 2.cssRem)
+            numColumns = numColumns(base = 1, md = 2),
+            modifier = Modifier.margin(topBottom = 2.cssRem).align(Alignment.CenterHorizontally)
         ) {
             val workExperiences = getAllWorkExperience()
 

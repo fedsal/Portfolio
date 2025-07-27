@@ -5,20 +5,14 @@ import org.fedsal.portfolio.components.models.WorkExperience
 fun getAllWorkExperience() = listOf(
     WorkExperience(
         sequenceNumber = "01",
-        role = "Software Developer Intern",
-        organization = "IONAGE",
-        duration = "July 23 - Present"
+        role = "Software Developer",
+        organization = "Mercado libre",
+        duration = "March 21 - May 2023"
     ),
     WorkExperience(
         sequenceNumber = "02",
-        role = "Software Developer Intern",
-        organization = "Humara Nagar",
-        duration = "Jan 23 - Mar 23"
+        role = "Software Engineer",
+        organization = "Global Logic",
+        duration = "May 2023 - Present"
     ),
-    WorkExperience(
-        sequenceNumber = "03",
-        role = "Software Developer Intern",
-        organization = "Edvora",
-        duration = "Oct 22 - Nov 22"
-    )
 )
