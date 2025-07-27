@@ -1,6 +1,7 @@
 site:
   title: "Fedsal Portfolio"
-  pathPrefix: /Portfolio
+  pathPrefix: Portfolio
+  basePath: Portfolio
 
 server:
   files:
