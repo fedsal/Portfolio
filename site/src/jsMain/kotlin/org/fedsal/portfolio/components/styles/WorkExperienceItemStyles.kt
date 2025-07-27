@@ -44,7 +44,7 @@ val WorkExperienceItemOrgStyle = CssStyle {
 val ExperienceStyle = CssStyle {
     base {
         Modifier
-            .width(100.percent)
+            .width(80.percent)
             .fontSize(3.cssRem)
             .minHeight(100.vh)
     }
