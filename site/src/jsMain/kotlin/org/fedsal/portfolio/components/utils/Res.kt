@@ -13,8 +13,8 @@ object Res {
 
 
 
-        const val WHATSAPP_URL = ""
-        const val TELEGRAM_URL = ""
+        const val WHATSAPP_URL = "https://wa.me/541161608994"
+        const val TELEGRAM_URL = "https://t.me/Federico_Salgado"
 
 
         // Projects Links
@@ -37,9 +37,12 @@ object Res {
                 "updated on emerging technologies to deliver cutting-edge, scalable solutions that meet user and business\n" +
                 "needs."
 
+        const val EXPERIENCE_SECTION_TEXT = "I’m a Software Developer Engineer, specializing in Android & Backend Development with "
+        const val FIVE_MONTH = "5 months"
+        const val OF_INTERNSHIP = " of Internship Experience."
 
         const val PROJECT_SECTION_TEXT = "Recent projects built with modern, innovative technologies."
-        const val PROJECT_REPOSITORIES_URL = ""
+        const val PROJECT_REPOSITORIES_URL = "https://github.com/fedsal?tab=repositories"
         const val MORE_ON_GITHUB = "More on GitHub"
 
         // Footer
@@ -53,6 +56,7 @@ object Res {
 
         const val ABOUT = "About me"
         const val PROJECTS = "My Projects"
+        const val EXPERIENCE_TITLE = "Work Experience."
     }
 
 

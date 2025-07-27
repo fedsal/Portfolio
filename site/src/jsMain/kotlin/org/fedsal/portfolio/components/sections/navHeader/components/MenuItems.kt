@@ -6,6 +6,7 @@ import androidx.compose.runtime.Composable
 fun MenuItems(activeSection: String) {
     NavLink("#home", "Home", activeSection == "home")
     NavLink("#about", "About", activeSection == "about")
+    NavLink("#experience", "Experience", activeSection == "experience")
     NavLink("#projects", "Projects", activeSection == "projects")
     NavLink("#contact", "Contact", activeSection == "contact")
 }

@@ -10,6 +10,7 @@ import com.varabyte.kobweb.core.Page
 import com.varabyte.kobweb.silk.theme.colors.ColorMode
 import org.fedsal.portfolio.components.layouts.DefaultPageLayout
 import org.fedsal.portfolio.components.sections.about.ui.About
+import org.fedsal.portfolio.components.sections.experience.Experience
 import org.fedsal.portfolio.components.sections.home.ui.Home
 import org.fedsal.portfolio.components.sections.projects.ui.Projects
 import org.fedsal.portfolio.toSitePalette
@@ -31,6 +32,8 @@ fun HomePage() {
             Home(currentPalette = currentPalette)
 
             About()
+
+            Experience()
 
             Projects()
         }

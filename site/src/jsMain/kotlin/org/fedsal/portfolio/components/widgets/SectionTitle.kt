@@ -41,15 +41,5 @@ fun SectionTitle(
                     .fontFamily("Lexend")
             )
         }
-
-        val portalStar = if (ColorMode.current.isLight) Res.Images.PORTAL_STAR_DARK else Res.Images.PORTAL_STAR_LIGHT
-
-        Image(
-            src = portalStar,
-            modifier = Modifier
-                .align(Alignment.Top)
-                .size(22.px)
-        )
-
     }
 }

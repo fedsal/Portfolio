@@ -52,6 +52,24 @@ val SectionDiscriptionStyle = CssStyle {
     }
 }
 
+val SectionDescriptionStyle = CssStyle {
+    base {
+        Modifier.fontSize(FontSize.XSmall)
+            .margin(topBottom = 0.75.cssRem)
+    }
+    Breakpoint.SM {
+        Modifier.fontSize(FontSize.Small)
+            .margin(topBottom = 0.75.cssRem)
+    }
+    Breakpoint.MD {
+        Modifier.fontSize(FontSize.Medium)
+            .margin(topBottom = 1.cssRem)
+    }
+    Breakpoint.LG {
+        Modifier.fontSize(FontSize.Large)
+            .margin(topBottom = 2.cssRem)
+    }
+}
 
 
 

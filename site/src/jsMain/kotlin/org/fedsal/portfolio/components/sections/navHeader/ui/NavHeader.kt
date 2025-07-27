@@ -45,7 +45,7 @@ fun NavHeader() {
     // Side effect to listen to scroll events and update active section
     SideEffect {
         window.onscroll =  {
-            val sections = listOf("home", "about", "projects", "contact")
+            val sections = listOf("home", "about", "experience","projects", "contact")
             sections.forEach { section ->
                 val element = document.getElementById(section)
                 if (element != null) {
