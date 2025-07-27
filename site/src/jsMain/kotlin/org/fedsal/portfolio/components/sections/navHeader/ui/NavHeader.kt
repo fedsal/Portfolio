@@ -8,6 +8,7 @@ import com.varabyte.kobweb.compose.ui.Modifier
 import com.varabyte.kobweb.compose.ui.modifiers.fillMaxWidth
 import com.varabyte.kobweb.compose.ui.modifiers.fontSize
 import com.varabyte.kobweb.compose.ui.modifiers.gap
+import com.varabyte.kobweb.compose.ui.modifiers.padding
 import com.varabyte.kobweb.silk.style.breakpoint.Breakpoint
 import com.varabyte.kobweb.silk.style.breakpoint.displayIfAtLeast
 import com.varabyte.kobweb.silk.style.breakpoint.displayUntil
@@ -65,6 +66,7 @@ fun NavHeader() {
         Row(
             Modifier
                 .fillMaxWidth()
+                .padding { left(3.cssRem) }
                 .gap(1.5.cssRem)
                 .displayIfAtLeast(Breakpoint.MD),
             verticalAlignment = Alignment.CenterVertically,

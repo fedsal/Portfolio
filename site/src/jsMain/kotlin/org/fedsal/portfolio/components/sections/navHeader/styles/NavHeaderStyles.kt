@@ -45,7 +45,7 @@ val SideMenuStyle = CssStyle.base {
     val colorPalette = colorMode.toPalette()
     Modifier
         .fillMaxHeight()
-        .width(clamp(8.cssRem, 33.percent, 10.cssRem))
+        .width(clamp(9.cssRem, 40.percent, 11.cssRem))
         .padding(top = 1.cssRem, leftRight = 1.cssRem)
         .gap(1.5.cssRem)
         .backgroundColor(colorPalette.background.toRgb().copyf(alpha = 0.8f))

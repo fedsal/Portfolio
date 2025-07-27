@@ -16,8 +16,5 @@ val ProjectsStyle = SectionContainerStyle.extendedBy {
         Modifier
             .fillMaxWidth()
             .height(auto)
-            .padding { topBottom(10.cssRem) }
-
     }
-
 }

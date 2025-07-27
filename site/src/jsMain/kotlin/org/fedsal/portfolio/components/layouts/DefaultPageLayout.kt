@@ -40,7 +40,7 @@ fun DefaultPageLayout(
             .position(Position.Relative)
     ) {
 
-        // For Display Size Until MD
+        /*// For Display Size Until MD
         SVGHeroBackround(
             modifier = Modifier
                 .displayUntil(Breakpoint.MD)
@@ -50,7 +50,7 @@ fun DefaultPageLayout(
 
             ,
             src = Res.Images.GREEN_CIRCE
-        )
+        )*/
 
         // For Display Size After  MD
         SVGHeroBackround(
